@@ -1,4 +1,3 @@
-#source = https://inventwithpython.com/chapter10.html
 import random
 import string
 
